@@ -1,0 +1,61 @@
+{
+  "opportunities": [
+    {
+      "rank": 1,
+      "title": "Facilities Consolidation: Multi-Geography Coworking Stack",
+      "category": "Facilities",
+      "vendors_involved": [
+        "Tog Uk Properties Limited",
+        "Cloudcrossing Bvba",
+        "Zagrebtower D.O.O.",
+        "Innovent Spaces Private Limited",
+        "Weking D.O.O.",
+        "Gpt Space & Co",
+        "Wework Singapore Pte. Ltd."
+      ],
+      "current_annual_spend": 1145571.87,
+      "projected_savings_pct": 0.28,
+      "projected_annual_savings": 320760.12,
+      "implementation_summary": "Consolidate 7 separate coworking/flexible office providers across UK, Belgium, Croatia, India, and Singapore onto 2 global vendors (e.g., WeWork + IWG/Regus) with enterprise pricing. Standardize lease terms, eliminate duplicate admin overhead, and negotiate volume discounts.",
+      "implementation_effort": "Medium",
+      "risk_notes": "Local employees may resist workspace changes; requires staggered rollout and lease alignment timing.",
+      "confidence": 0.85
+    },
+    {
+      "rank": 2,
+      "title": "Salesforce License Right-Sizing and Tier Optimization",
+      "category": "SaaS",
+      "vendors_involved": [
+        "Salesforce Uk Ltd-Uk"
+      ],
+      "current_annual_spend": 3117225.89,
+      "projected_savings_pct": 0.18,
+      "projected_annual_savings": 561100.66,
+      "implementation_summary": "Audit Salesforce user licenses (likely over-provisioned Enterprise/Unlimited seats), downgrade inactive/light users to lower tiers, eliminate unused Sales Cloud/Service Cloud seats, and renegotiate renewal based on actual usage. Typical enterprise customers carry 20-30% license bloat.",
+      "implementation_effort": "Low",
+      "risk_notes": "Sales team may push back if perceived as capability reduction; requires usage audit first.",
+      "confidence": 0.8
+    },
+    {
+      "rank": 3,
+      "title": "Professional Services Consolidation: Advisory and Recruitment",
+      "category": "Professional Services",
+      "vendors_involved": [
+        "Bdo Llp",
+        "Hr Solution International Gmbh",
+        "Mason Frank International Ltd",
+        "Technet It Recruitment",
+        "Cedar Recruitment Ltd"
+      ],
+      "current_annual_spend": 502470.04,
+      "projected_savings_pct": 0.22,
+      "projected_annual_savings": 110543.41,
+      "implementation_summary": "Consolidate accounting advisory (BDO) and four separate recruitment agencies onto 2 preferred partners with master service agreements. Negotiate volume discounts on recruitment contingency fees (reduce from 20-25% to 15-18%) and lock in advisory retainer pricing.",
+      "implementation_effort": "Medium",
+      "risk_notes": "Specialized recruiters (e.g., Mason Frank for Salesforce roles) may be needed tactically; ensure MSA allows flexibility.",
+      "confidence": 0.75
+    }
+  ],
+  "total_projected_savings": 992404.19,
+  "savings_as_pct_of_spend": 0.126
+}
