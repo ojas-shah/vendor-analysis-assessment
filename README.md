@@ -223,7 +223,7 @@ This slash command takes the reconciled data and Top 3 output and drafts a 1-pag
 
 ## Part 3 — How this kit demonstrates AI-First operating
 
-The hiring manager grades on (1) Claude Code fluency, (2) AI-driven QC, (3) structured methodology. Here's how this kit maps to each:
+As a hiring manager, you're grading my submission on (1) Claude Code fluency, (2) AI-driven QC, (3) structured methodology. Here's how this kit maps to each:
 
 **Claude Code fluency** is demonstrated by:
 - `CLAUDE.md` — project context Claude Code auto-loads
